@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "pendexless": {
+      "hosting": {
+        "firestarter": [
+          "pendexless"
+        ]
+      }
+    }
+  }
+}
